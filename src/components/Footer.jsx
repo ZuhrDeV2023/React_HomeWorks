@@ -7,7 +7,7 @@ import iconFacebook from '../assets/images/icon/facebook-icon.svg'
 function Footer() {
   return (
     <footer class="footer">
-        <div class="box-list-footer d-flex justify-content-between">
+        <div class="box-list-footer">
             <div className="paddingfoot">
                 <ul class="title-footer-list">
                     <li class="title-footer-title">Copyright 2020</li>
