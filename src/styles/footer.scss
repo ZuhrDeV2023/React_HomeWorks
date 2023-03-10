@@ -1,0 +1,163 @@
+.footer{
+    margin: 0 auto;
+    padding: 0 ;
+    background: #191919;
+    color: #FFFFFF;
+}
+
+.paddingfoot{
+    display: flex;
+    justify-content: space-between;
+    // max-width: 1230px;
+    margin: 0% auto;
+    // padding: 0% 15px;
+}
+
+.title-footer-list{
+    margin: 0% auto;
+    padding: 0% ;
+}
+
+.title-footer-title{
+    margin: 0% auto;
+    padding: 0%;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 130%;
+    padding-top: 56px;
+}
+
+.title-footer-text{
+    margin: 0;
+    padding: 0;
+    // width: 320px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    padding-top: 16px;
+    padding-bottom: 120px;
+}
+
+.title-web-page{
+    margin: 0;
+    padding: 0;
+    padding-bottom: 16px;
+}
+
+
+.box-list-footer{
+    margin: 0 auto;
+}
+
+.web-page-list{
+    margin: 0;
+    padding: 0;
+    padding-bottom: 8px;
+}
+
+.web-page-footer{
+    margin: 0% auto;
+    padding: 0%;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 130%;
+    margin-left: 100px;
+    margin-top: 56px;
+}
+
+.web-link-large{
+    color: #FFFFFF;
+    margin: 0;
+    padding: 0;
+}
+
+.web-link-small{
+    // margin: 0 auto;
+    padding: 0;
+    color: #FFFFFF;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.web-link-small:hover{
+    color: #00BAFC;
+}
+
+.web-link-small:active{
+    color: #00BAFC;
+    opacity: 0.6;
+}
+.link-order:hover{
+    background: rgba(0, 186, 252, 0.8);
+    border-radius: 5px;
+}
+
+.link-order:active{
+    background: rgba(0, 186, 252, 0.6);
+    border-radius: 5px;
+}
+
+.link-all-info{
+    margin: 0% auto;
+    padding: 0%;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    text-decoration-line: underline;
+    color: #00BAFC;
+    margin-left: 16px;
+}
+
+.link-all-info:hover{
+    opacity: 0.8;
+}
+
+.link-all-info:active{
+    opacity: 0.6;
+}
+
+.footer-link-list{
+    margin-left: 100px;
+    padding-top: 56px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 130%;
+}
+
+.footer-list-link{
+    padding-bottom: 8px;
+}
+
+.large-title{
+    padding-bottom: 16px;
+}
+
+.telegram-link{
+    align-items: center;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+    padding: 0 0 0 10px;
+}
+
+.telegram-link:hover{
+    opacity: 0.8;
+    color: #00BAFC;}
+
+.link-local-footer:active{
+    color: #00BAFC;
+}
+
+.telegram-link:active{
+    opacity: 0.6;
+}

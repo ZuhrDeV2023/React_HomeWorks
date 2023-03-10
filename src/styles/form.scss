@@ -1,0 +1,109 @@
+.form-example{
+    margin: 0%;
+    padding: 0%;
+    background: #00BAFC;
+    padding-bottom: 64px;
+}
+
+.box-form{
+    margin: 0% auto;
+    padding: 0%;
+    width: 348px;
+}
+
+.box-text-form{
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+.title-form{
+    margin: 0%;
+    padding: 0;
+    text-align: center;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 130%;
+    color: #FFFFFF;
+    padding-top: 56px;
+}
+
+.text-form{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    padding-top: 16px;
+    padding-bottom: 24px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.box-form{
+    margin: 0 auto;
+    padding: 0;
+    background: #FFFFFF;
+    border-radius: 5px;
+}
+
+.input-info-box{
+    width: 300px;
+    background: #F3F3F3;
+    border-radius: 5px;
+    border: none;
+    padding: 16px;
+    margin-top: 24px;
+    margin-left: 24px;
+}
+
+.before-list-item::before{
+    content: "";
+    display: inline-block;
+    width: 12px;
+    height: 12px;
+    background: #00BAFC;
+    border-radius: 50%;
+    margin-right: 8px;
+    align-items: center;
+}
+
+.box-buttom-main{
+    padding-bottom: 32px;
+}
+
+.input-end{
+    margin-bottom: 16px;
+}
+
+.box-buttun-form{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 16px;
+}
+
+.form-link-bottom{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+    background: #00BAFC;
+    border-radius: 5px;
+    padding: 8px 16px;
+}
+
+.link-order{
+    margin: 0%;
+    padding: 0%;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+    background: #00BAFC;
+    border-radius: 5px;
+    padding: 8px 16px;
+}

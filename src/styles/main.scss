@@ -1,0 +1,110 @@
+.main{
+    margin: 0 auto;
+    padding: 0;
+}
+
+.top-main-box{
+    margin: 0%;
+    padding: 72px 15px;
+}
+
+.top-main-title{
+    margin: 0%;
+    padding: 0%;
+    text-align: center;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 130%;
+    color: #000000;
+}
+
+.top-main-text{
+    text-align: center;
+    margin: 0%;
+    padding: 16px 0%;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #000000;
+}
+
+.down-main{
+    margin: 0%;
+    padding: 0%;
+    background: #F4F4F4;
+}
+
+.down-main-item{
+    margin: 0% auto;
+    padding: 0%;
+    width: 804px;
+}
+
+.down-item-list{
+    padding: 80px 0%;
+}
+.down-list-item{
+    display: flex;
+    margin: 0;
+    padding: 0;
+    background: #FFFFFF;
+    box-shadow: 0px 10px 16px rgba(0, 0, 0, 0.12);
+    border-radius: 5px;
+    background-color: aliceblue;
+    margin-bottom: 64px;
+}
+
+.down-list-images{
+    margin: 32px 32px 0% 40px;
+    padding: 0%;
+}
+
+.down-list-box{
+    margin: 0%;
+    padding: 0%;
+    padding-top: 32px;
+}
+
+.list-box-title{
+    margin: 0%;
+    padding: 0%;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 130%;
+    color: #000000;
+}
+
+.list-box-text{
+    margin: 0%;
+    padding: 0%;
+    padding-top: 16px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    color: #000000;
+    margin-bottom: 16px;
+}
+
+.before-item-list{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #000000;
+    margin-bottom: 16px;
+}
+
+.before-list-item{
+    align-items: center;
+    padding-bottom: 8px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #000000;
+}
